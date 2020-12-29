@@ -1,6 +1,6 @@
 # Scripts Mikrotik
 
-########## Aplicando configuração de bloqueio no acesso aos roteadores do clientes ##########
+########## Aplicando configuração de bloqueio no acesso externo aos roteadores dos clientes ##########
 
 /ip firewall filter
 
